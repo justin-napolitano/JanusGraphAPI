@@ -23,6 +23,13 @@ seoSecondaryKeywords:
   - geographic data
   - graph database
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on an ETL pipeline for geographic data using Python and JanusGraph, including
+  data processing with pandas and graph querying, fitting well within data science and ETL
+  workflows. The 'datascience' family covers ETL pipelines and geospatial data, matching the post
+  content closely.
 ---
 
 # JanusGraphAPI: Technical Overview and Implementation Notes
@@ -92,3 +99,4 @@ Traditional relational or tabular data formats limit the ability to explore comp
 ## Conclusion
 
 JanusGraphAPI is a foundational toolkit for integrating US geographic data into a JanusGraph database using Python and Gremlin. It currently provides data loading, vertex property management, and basic querying capabilities. Further development is needed to fully realize a comprehensive graph ETL pipeline and to generalize connection management and error handling.
+
