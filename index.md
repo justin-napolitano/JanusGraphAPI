@@ -1,12 +1,29 @@
 ---
-slug: "github-janusgraphapi"
-title: "JanusGraphAPI"
-repo: "justin-napolitano/JanusGraphAPI"
-githubUrl: "https://github.com/justin-napolitano/JanusGraphAPI"
-generatedAt: "2025-11-23T09:09:42.874274Z"
-source: "github-auto"
+slug: github-janusgraphapi
+title: 'JanusGraphAPI: Python ETL for US Geographic Data in JanusGraph'
+repo: justin-napolitano/JanusGraphAPI
+githubUrl: https://github.com/justin-napolitano/JanusGraphAPI
+generatedAt: '2025-11-23T09:09:42.874274Z'
+source: github-auto
+summary: >-
+  Technical overview of JanusGraphAPI, a Python toolkit for ingesting US geographic CSV data into
+  JanusGraph with Gremlin traversal and querying.
+tags:
+  - janusgraph
+  - python
+  - gremlin
+  - etl-pipeline
+  - geographic-data
+  - graph-database
+seoPrimaryKeyword: janusgraphapi
+seoSecondaryKeywords:
+  - janusgraph
+  - gremlin
+  - python etl
+  - geographic data
+  - graph database
+seoOptimized: true
 ---
-
 
 # JanusGraphAPI: Technical Overview and Implementation Notes
 
