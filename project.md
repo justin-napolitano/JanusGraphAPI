@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/JanusGraphAPI
 generatedAt: '2025-11-24T21:35:15.470Z'
 source: github-auto
 summary: >-
-  Explore a Python-based API for integrating JanusGraph with Pandas, including
-  setup, features, and future enhancements.
+  Explore a Python-based API for integrating JanusGraph with Pandas, including setup, features, and
+  future enhancements.
 tags:
   - janusgraph
   - gremlin
@@ -22,8 +22,8 @@ seoSecondaryKeywords:
   - python scripts
   - graph data manipulation
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -119,4 +119,5 @@ python CleareGraph.py
 - Provide Docker or environment setup scripts for easier deployment.
 - Add unit and integration tests.
 - Improve documentation with usage examples and API references.
+
 
