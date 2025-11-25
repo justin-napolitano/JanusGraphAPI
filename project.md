@@ -1,19 +1,27 @@
 ---
 slug: github-janusgraphapi
 id: github-janusgraphapi
-title: JanusGraphAPI
+title: Integrate Pandas with JanusGraph Using Python Scripts
 repo: justin-napolitano/JanusGraphAPI
 githubUrl: https://github.com/justin-napolitano/JanusGraphAPI
 generatedAt: '2025-11-24T21:35:15.470Z'
 source: github-auto
 summary: >-
-  A collection of Python scripts that integrate pandas functionality with
-  JanusGraph and Gremlin servers. This repository provides tools to create a
-  sample database of every zip code in the United States as a proof of concept.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore Python scripts that connect Pandas functionality with JanusGraph and
+  Gremlin servers for managing US zip code data.
+tags:
+  - janusgraph
+  - gremlin
+  - python
+  - pandas
+seoPrimaryKeyword: janusgraph python integration
+seoSecondaryKeywords:
+  - gremlin server connection
+  - pandas data transformation
+  - graph data manipulation
+  - zip code database
+  - python scripts for janusgraph
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
