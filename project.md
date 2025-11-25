@@ -1,14 +1,14 @@
 ---
 slug: github-janusgraphapi
 id: github-janusgraphapi
-title: Integrate Pandas with JanusGraph Using Python Scripts
+title: Integrating JanusGraph with Python and Pandas
 repo: justin-napolitano/JanusGraphAPI
 githubUrl: https://github.com/justin-napolitano/JanusGraphAPI
 generatedAt: '2025-11-24T21:35:15.470Z'
 source: github-auto
 summary: >-
-  Explore Python scripts that connect Pandas functionality with JanusGraph and
-  Gremlin servers for managing US zip code data.
+  Explore a Python-based API for integrating JanusGraph with Pandas, including
+  setup, features, and future enhancements.
 tags:
   - janusgraph
   - gremlin
@@ -16,11 +16,11 @@ tags:
   - pandas
 seoPrimaryKeyword: janusgraph python integration
 seoSecondaryKeywords:
-  - gremlin server connection
-  - pandas data transformation
+  - janusgraph api
+  - gremlin server
+  - pandas functionality
+  - python scripts
   - graph data manipulation
-  - zip code database
-  - python scripts for janusgraph
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
