@@ -1,13 +1,13 @@
 ---
 slug: github-janusgraphapi
-title: 'JanusGraphAPI: Python ETL for US Geographic Data in JanusGraph'
+title: Integrating Geographic Data with JanusGraph API
 repo: justin-napolitano/JanusGraphAPI
 githubUrl: https://github.com/justin-napolitano/JanusGraphAPI
 generatedAt: '2025-11-23T09:09:42.874274Z'
 source: github-auto
 summary: >-
-  Technical overview of JanusGraphAPI, a Python toolkit for ingesting US geographic CSV data into
-  JanusGraph with Gremlin traversal and querying.
+  Explore how to integrate US zip code data into JanusGraph using Python and
+  Gremlin for efficient spatial and relational queries.
 tags:
   - janusgraph
   - python
@@ -15,21 +15,26 @@ tags:
   - etl-pipeline
   - geographic-data
   - graph-database
-seoPrimaryKeyword: janusgraphapi
-seoSecondaryKeywords:
-  - janusgraph
-  - gremlin
-  - python etl
-  - geographic data
+  - data processing
   - graph database
+  - etl
+  - geographic data
+seoPrimaryKeyword: janusgraph geographic data integration
+seoSecondaryKeywords:
+  - python gremlin integration
+  - janusgraph etl process
+  - spatial queries with janusgraph
+  - graph database vertex management
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses on an ETL pipeline for geographic data using Python and JanusGraph, including
-  data processing with pandas and graph querying, fitting well within data science and ETL
-  workflows. The 'datascience' family covers ETL pipelines and geospatial data, matching the post
-  content closely.
+  The post focuses on an ETL pipeline for geographic data using Python and
+  JanusGraph, including data processing with pandas and graph querying, fitting
+  well within data science and ETL workflows. The 'datascience' family covers
+  ETL pipelines and geospatial data, matching the post content closely.
+kind: project
+id: github-janusgraphapi
 ---
 
 # JanusGraphAPI: Technical Overview and Implementation Notes
